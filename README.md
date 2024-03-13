@@ -29,7 +29,4 @@ Aplicação em Angular com ajuda de **[Curso de Angular 2 (v17+) Typescript do B
 # Autor
 Carlos Eduardo Braz Samparo
 
-# Link
-https://cadusamparo.github.io/angular-dark-theme/
-
 [https://www.linkedin.com/in/carlos-eduardo](https://www.linkedin.com/in/carlos-eduardo-b4761326a/)
